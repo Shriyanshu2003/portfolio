@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 .me{
-	height: 100vh;
+	height: 60vh;
 	width: 130%;
 	background-image: url(background.jpg);
 	background-size: cover;
